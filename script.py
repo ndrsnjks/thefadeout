@@ -7,7 +7,7 @@ from instabot import Bot
 import time
 repeater = [1, 2, 3]
 for i in repeater:
-    #IG-pw: nrleirrw
+    
     bot = Bot()
     today = date.today()
 
